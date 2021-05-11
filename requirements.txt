@@ -1,0 +1,6 @@
+flask
+urllib
+json                 # Used to load data into JSON format
+pprint
+pandas
+os
